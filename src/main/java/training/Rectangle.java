@@ -1,3 +1,5 @@
+package training;
+
 class Rectangle extends Shapes
 {
 

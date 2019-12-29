@@ -1,10 +1,10 @@
+package training;
 
-
- class Area
+public class Area
 
 {
  
-   public getAreaforAllShapes()
+   public double  getAreaforAllShapes()
  {
 
   
@@ -24,5 +24,6 @@ System.out.println("Circle Area : " + type[2].getArea());
   
     
   System.out.println();
-    }
+     return 0;
+ }
 }

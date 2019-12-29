@@ -1,3 +1,4 @@
+package training;
 
 abstract class Shapes
 {

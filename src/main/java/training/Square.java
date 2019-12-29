@@ -1,3 +1,5 @@
+package training;
+
 class Square  extends Shapes
 {
 
